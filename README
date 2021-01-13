@@ -1,0 +1,7 @@
+Run `python3 find-thematic-tournaments.py` to list ongoing and upcoming thematic tournaments.
+
+Lichess seems to show its tournament schedule about 6 hours out.
+
+TODO:
+- notification
+- cron job
